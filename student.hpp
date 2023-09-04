@@ -14,7 +14,7 @@ int mul(int a, int b);
 int add(int a, int b)
 {
    int soma;
-   soma = a+b
+   soma = a+b;
    return soma; // TODO: fix
 }
 
@@ -22,6 +22,6 @@ int add(int a, int b)
 int mul(int a, int b)
 {
    int produto;
-   produto = a*b
+   produto = a*b;
    return produto; // TODO: fix
 }
